@@ -1,1 +1,1 @@
-# basic-library-management
+# Library Management using MySQL
